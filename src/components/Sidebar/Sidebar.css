@@ -65,7 +65,7 @@
   padding-right: 10px;
 }
 
-@media (max-width: 600) {
+@media (max-width: 768) {
   .sidebar {
     display: none;
   }
